@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BorescopeView</string>
+    <string name="save_frame">Save Frame</string>
+    <string name="exit">Exit</string>
+    <string name="rotate">Rotate</string>
+    <string name="desc_save_frame">Save Frame</string>
+    <string name="desc_rotate">Rotate Image</string>
+    <string name="desc_exit">Exit</string>
+
+</resources>
